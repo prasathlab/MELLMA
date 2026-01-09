@@ -1,7 +1,8 @@
 # A Multi-Expert Deep Learning Framework with LLM-Guided Arbitration for Multimodal Histopathology Prediction
 
 - #### Authors</ins>: Shyam Sundar Debsarkar \& Surya Prasath 
-- #### Journal : Computerized Medical Imaging and Graphics (Under Review)
+- #### Journal : Computerized Medical Imaging and Graphics
+- #### Doi: https://doi.org/10.1016/j.compmedimag.2026.102704
 
 
 ## Abstract
